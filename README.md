@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**CadmiumC4/CadmiumC4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on *the programming language of cats.* (See [CattyLang/CattyLang](https://github.com/CattyLang/CattyLang))
+- 🌱 I’m currently learning *Swift, Scala and TypeScript*.
+- 👯 I’m looking to collaborate on *language standard libraries*.
+- 🤔 I’m looking for help with *Assembly Language*.
+- 💬 Ask me about *C# and Q#*.
+- 📫 How to reach me: [*This guild should be enough*]().
+- 😄 Pronouns: *he/they*
+- ⚡ Fun fact: I'm Turkish.
+
