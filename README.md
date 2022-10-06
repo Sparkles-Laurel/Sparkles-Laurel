@@ -11,6 +11,6 @@
 - 🤔 I’m looking for help with *Assembly Language*.
 - 💬 Ask me about *C# and Q#*.
 - 📫 How to reach me: [*This guild should be enough*](https://discord.gg/ypcMSagbtv)
-- 😄 Pronouns: *he/they*
+- 😄 Pronouns: *she/her*
 - ⚡ Fun fact: I'm Turkish.
 
