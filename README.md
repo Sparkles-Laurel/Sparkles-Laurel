@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on *language standard libraries*.
 - 🤔 I’m looking for help with *Assembly Language*.
 - 💬 Ask me about *anything appropriate!* I'm open to anything.
-- 📫 How to reach me: Twitter/Reddit DMs always open. (clarify that you've found me from GitHub though)
+- 📫 How to reach me: Twitter/Reddit DMs always open. (clarify that you've found me from GitHub though). Also see [this](https://github.com/SparkySimp/SparkySimp/discussions/1)
 - ⚡ Fun fact: That little PRO indicates that I have GitHub PRO. It's [free for students](https://education.github.com)!
