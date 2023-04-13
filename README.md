@@ -8,3 +8,6 @@
 - 💬 Ask me about *anything appropriate!* I'm open to anything.
 - 📫 How to reach me: Twitter/Reddit DMs always open. (clarify that you've found me from GitHub though). Also see [this](https://github.com/SparkySimp/SparkySimp/discussions/1)
 - ⚡ Fun fact: That little PRO indicates that I have GitHub PRO. It's [free for students](https://education.github.com)!
+
+
+- Bilişim bölümü öğrencileri için kurduğumuz [depoya](https://github.com/SparkySimp/ntp-cozumler) bir göz atmanızı şiddetle tavsiye ediyorum.
