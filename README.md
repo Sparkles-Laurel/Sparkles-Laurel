@@ -1,4 +1,5 @@
 [![Click to learn more about this](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sample_09-F9_protest_art%2C_Free_Speech_Flag_by_John_Marcotte.svg/300px-Sample_09-F9_protest_art%2C_Free_Speech_Flag_by_John_Marcotte.svg.png)](https://en.wikipedia.org/wiki/Free_Speech_Flag)![SparkySimp's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkySimp&show_icons=true&theme=onedark)<br/>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on *[Pisi the Package Manager](https://github.com/SparkySimp/pisi).* <!--(See [CattyLang/CattyLang](https://github.com/CattyLang/CattyLang))-->
