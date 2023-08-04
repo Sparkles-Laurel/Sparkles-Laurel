@@ -11,4 +11,5 @@
 - ⚡ Fun fact: That little PRO indicates that I have GitHub PRO. It's [free for students](https://education.github.com)!
 - sad about the fact that I can't register again for GitHub PRO. ~~maybe I can try my certificate of appreciation~~.
 
+- apparently im trans 🏳️‍⚧️
 - Bilişim bölümü öğrencileri için kurduğumuz [depoya](https://github.com/SparkySimp/ntp-cozumler) bir göz atmanızı şiddetle tavsiye ediyorum.
