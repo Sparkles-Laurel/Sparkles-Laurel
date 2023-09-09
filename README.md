@@ -1,15 +1,8 @@
-[![Click to learn more about this](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sample_09-F9_protest_art%2C_Free_Speech_Flag_by_John_Marcotte.svg/300px-Sample_09-F9_protest_art%2C_Free_Speech_Flag_by_John_Marcotte.svg.png)](https://en.wikipedia.org/wiki/Free_Speech_Flag)
+<!-- [![Click to learn more about this](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sample_09-F9_protest_art%2C_Free_Speech_Flag_by_John_Marcotte.svg/300px-Sample_09-F9_protest_art%2C_Free_Speech_Flag_by_John_Marcotte.svg.png)](https://en.wikipedia.org/wiki/Free_Speech_Flag) -->
 
-### Hi there 👋
+## I am so tired that I can't come up with a title.
+Hi, my name is Kıvılcım (or Sparky if you prefer), and I am an 11th grade IT student from Turkey. I have been programming since I was 6 and I have a special interest in systems programming.
 
-- 🔭 I’m currently working on *[Pisi the Package Manager](https://github.com/SparkySimp/pisi).* <!--(See [CattyLang/CattyLang](https://github.com/CattyLang/CattyLang))-->
-- 🌱 I’m currently learning *x86 Assembly*.
-- 👯 I’m looking to collaborate on *language standard libraries*.
-- 🤔 I’m looking for help with *Assembly Language*.
-- 💬 Ask me about *anything appropriate!* I'm open to anything.
-- 📫 How to reach me: Twitter/Reddit DMs always open. (clarify that you've found me from GitHub though). Also see [this](https://github.com/SparkySimp/SparkySimp/discussions/1)
-- ⚡ Fun fact: That little PRO indicates that I have GitHub PRO. It's [free for students](https://education.github.com)!
-- sad about the fact that I can't register again for GitHub PRO. ~~maybe I can try my certificate of appreciation~~.
+I know most of my works are stubs cause I had some serious data loss incidents when I was 12, the computer that included my actually functional programs died due to battery leaks and my parents didn't let me recover my stuff from the SSD. (they are busy with hiding the SATA to USB controllers from me.)
 
-- apparently im trans 🏳️‍⚧️
-- Bilişim bölümü öğrencileri için kurduğumuz [depoya](https://github.com/SparkySimp/ntp-cozumler) bir göz atmanızı şiddetle tavsiye ediyorum.
+I apologise for the shit profile, yet I hope you enjoy reading my half-finished programs (contributions are also welcome).
