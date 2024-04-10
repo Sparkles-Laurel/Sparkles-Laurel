@@ -6,3 +6,5 @@ Hi, my name is Kıvılcım (or Sparky if you prefer), and I am an 11th grade IT 
 I know most of my works are stubs cause I had some serious data loss incidents when I was 12, the computer that included my actually functional programs died due to battery leaks and my parents didn't let me recover my stuff from the SSD. (they are busy with hiding the SATA to USB controllers from me.)
 
 I apologise for the shit profile, yet I hope you enjoy reading my half-finished programs (contributions are also welcome).
+
+you can also find me on another Forejo server as [@Sparky29](https://git.gay/Sparky29/)
